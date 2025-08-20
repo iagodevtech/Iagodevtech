@@ -3,7 +3,23 @@
 
 Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e dedicado a resolver problemas com soluções eficientes. Busco contribuir em projetos desafiadores e crescer profissionalmente em equipes que valorizam inovação e colaboração.
 
-https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg
+<table>
+  <tr>
+    <td width="60%" align="center"><br>
+  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br>
+      <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/stardew-purple.gif"">
+      <picture >
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
+        <img width="100%" alt="github contribution grid snake animation"
+             src="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
+      </picture><br><br>
+      <div align="center">
+        <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+      </div><br>
+          <div>
 
 
 ## 🔹 Sobre mim
