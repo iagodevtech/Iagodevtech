@@ -10,8 +10,8 @@ Busco contribuir em projetos desafiadores e crescer profissionalmente em equipes
 <br>
       ~
       <picture >
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iagodevtech/iagodevtech/output/github-contribution-grid-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iagodevtech/iagodevtech/output/github-contribution-grid-snake.svg">
+       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
         <img width="100%" alt="github contribution grid snake animation"
              src="https://raw.githubusercontent.com/iagodevtec/iagodevtech/output/github-contribution-grid-snake.svg">
       </picture><br><br>
