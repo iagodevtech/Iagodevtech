@@ -1,7 +1,8 @@
 ### 👋 Olá! Eu sou o Iago Alves
 💻 Desenvolvedor Júnior de Software | Focado em Back-end 
 
-Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e dedicado a resolver problemas com soluções eficientes. Busco contribuir em projetos desafiadores e crescer profissionalmente em equipes que valorizam inovação e colaboração.
+Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e dedicado a resolver problemas com soluções eficientes. 
+Busco contribuir em projetos desafiadores e crescer profissionalmente em equipes que valorizam inovação e colaboração.
 
 <table>
   <tr>
@@ -41,7 +42,6 @@ Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e 
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgreesql/postgreesql-original.svg" />&nbsp;&nbsp;
 </div>
 
 
