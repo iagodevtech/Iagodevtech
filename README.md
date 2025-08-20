@@ -6,8 +6,8 @@ Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e 
 <table>
   <tr>
     <td width="60%" align="center"><br>
-  ⊹ ₊  ⁺‧₊˚ ⊹ ˚₊‧⁺ ₊ ⊹<br>
-      <img width="100" src="https://github.com/AlianeAmaral/AlianeAmaral/blob/main/stardew-purple.gif"">
+<br>
+      ~
       <picture >
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
@@ -15,9 +15,9 @@ Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e 
              src="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
       </picture><br><br>
       <div align="center">
-        <a href="[https://github.com/AlianeAmaral](https://github.com/AlianeAmaral)"> 
-        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=AlianeAmaral&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&layout=compact&langs_count=16&theme=radical"/>
+        <a href="[https://github.com/iagodevtech](https://github.com/iagodevtech)"> 
+        <img height="120em" src="https://github-readme-stats.vercel.app/api?username=iagodevtech&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+        <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagodevtech&layout=compact&langs_count=16&theme=radical"/>
       </div><br>
           <div>
 
@@ -41,6 +41,7 @@ Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e 
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
+   &nbsp;&nbsp;<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgreesql/postgreesql-original.svg" />&nbsp;&nbsp;
 </div>
 
 
@@ -49,7 +50,7 @@ Iniciando minha carreira com foco em Back-end, estou em constante aprendizado e 
 &nbsp;<a href="www.linkedin.com/in/iago-alves-b502a518b" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="https://www.linkedin.com/in/lucascarvalho-dev/" target="_blank">
+&nbsp;<a href="www.linkedin.com/in/iago-alves-b502a518b" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
 
