@@ -9,7 +9,7 @@ Busco contribuir em projetos desafiadores e crescer profissionalmente em equipes
     <td width="60%" align="center"><br>
 <br>
       
-      Criando e desenvolvendo tecnologia para o Mundo
+  Criando e desenvolvendo tecnologia para o Mundo
       <picture >
        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlianeAmaral/AlianeAmaral/output/github-contribution-grid-snake.svg">
