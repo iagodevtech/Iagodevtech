@@ -51,12 +51,14 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 
 ## 📦 Projetos em destaque
 
-- [ ] Atualize aqui com 3–6 projetos principais do seu GitHub com 1 linha de descrição e stack. Ex.:
-  - API de Catálogo com autenticação e CRUD – Java, Spring, PostgreSQL
-  - Dashboard Angular consumindo API pública – Angular, TypeScript
-  - Microsserviço de processamento – Python, FastAPI, Celery, Docker
+- [ecomify](https://github.com/iagodevtech/ecomify) — Ecommerce Digital Futurístico.
+- [iago-portfolio](https://github.com/iagodevtech/iago-portfolio) — Portfólio pessoal com sistema de curtidas e Supabase.
+- [Tareffy](https://github.com/iagodevtech/Tareffy) — App de tarefas com drag & drop, notificações e sincronização em tempo real.
+- [projeto-concurso](https://github.com/iagodevtech/projeto-concurso) — Resolução de questões de concursos para maximizar o aprendizado.
+- [Portifilio](https://github.com/iagodevtech/Portifilio) — Ecommerce de reformas.
+- [portal-de-vendas](https://github.com/iagodevtech/portal-de-vendas) — Criação do Portal de Vendas (Probelle).
 
-> Dica: adicione badges de linguagem, link de demo (se houver) e o que você aprendeu/construiu de relevante.
+> Dica: adicione ao README de cada projeto instruções de setup rápido (Run/Build), stack utilizada e screenshots/gifs curtos para aumentar a retenção de quem visita.
 
 ---
 
