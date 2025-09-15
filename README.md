@@ -9,7 +9,9 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 [![GitHub followers](https://img.shields.io/github/followers/iagodevtech?style=social)](https://github.com/iagodevtech)
 [![GitHub stars](https://img.shields.io/github/stars/iagodevtech?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/iagodevtech?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Iago%20Alves-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-alves-b502a518b/)
-[![Email](https://img.shields.io/badge/Email-Enviar-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:iago.dev.tecnologia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Enviar-DB4437?style=flat&logo=gmail&logoColor=white)](mailto:iagodevtech@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Sim-brightgreen?style=flat)](#)
+[![Idiomas](https://img.shields.io/badge/Idiomas-PT--BR%20%7C%20EN-blue?style=flat)](#)
 
 </div>
 
@@ -17,8 +19,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 
 ## ✨ Sobre mim
 
-- 🔭 Atuação: back-end, integrações, APIs REST, bancos de dados, testes, Docker.
-- 🧠 Interesses: arquitetura, DDD, boas práticas, segurança, monitoramento e DevOps.
+- 🔭 Atuação: desenvolvimento web e criação de aplicativos; back-end, integrações, APIs REST, bancos de dados, testes, Docker.
+- 🧠 Interesses: desenvolvimento web, apps, arquitetura, DDD, segurança, monitoramento e DevOps.
 - 🚀 Objetivo: evoluir como engenheiro de software contribuindo em produtos com impacto.
 
 ---
@@ -151,6 +153,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/iago-alves-b502a518b/
-- Email: iago.dev.tecnologia@gmail.com
+- Email: iagodevtech@gmail.com
 
 Sinta-se à vontade para abrir issues, sugerir melhorias ou apenas dizer olá!
