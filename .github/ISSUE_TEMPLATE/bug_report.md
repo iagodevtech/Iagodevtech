@@ -1,0 +1,1 @@
+---\nname: Bug report\nabout: Reportar um problema\ntitle: '[BUG]'\nlabels: bug\nassignees: ''\n---\n\n**Descreva o bug**\n\n**Como reproduzir**\n\n**Comportamento esperado**\n\n**Contexto adicional**\n

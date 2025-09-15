@@ -115,6 +115,39 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 
 ---
 
+## 🗓️ Linha do tempo
+
+- 2023–2024: Conclusão de ADS e projetos acadêmicos práticos.
+- 2024–2025: Consolidação em back-end, APIs REST e bancos de dados.
+- Atual: foco em segurança, CI/CD, arquitetura e escalabilidade.
+
+---
+
+## 🧭 Tech Radar (pessoal)
+
+- Aprendendo: Docker Compose avançado, observabilidade, OpenAPI.
+- Usando no dia a dia: Java + Spring, PostgreSQL, TypeScript.
+- Aprofundando: Python para serviços, GitHub Actions para CI/CD.
+
+---
+
+## 🤝 Como contribuir
+
+- Sugestões? Abra uma issue com contexto claro e proposta de solução.
+- Encontrou um problema? Crie um PR pequeno e objetivo, com descrição do impacto.
+- Padrões: commits semânticos, descrições claras, e testes quando aplicável.
+
+---
+
+## 🧩 Guia de melhoria para projetos
+
+- Adicionar README com Quickstart (setup, run, build, test) e stack usada.
+- Incluir `.editorconfig`, `Dockerfile`/`docker-compose.yml` quando fizer sentido.
+- Configurar lint/test no CI (GitHub Actions) para garantir qualidade.
+- Adicionar imagens/gifs curtos no README para demonstrar o valor.
+
+---
+
 ## 📫 Contato
 
 - LinkedIn: https://www.linkedin.com/in/iago-alves-b502a518b/

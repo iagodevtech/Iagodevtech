@@ -1,0 +1,1 @@
+---\nname: Feature request\nabout: Sugerir uma melhoria\ntitle: '[FEATURE]'\nlabels: enhancement\nassignees: ''\n---\n\n**Resumo**\n\n**Solução proposta**\n\n**Alternativas consideradas**\n\n**Notas adicionais**\n
