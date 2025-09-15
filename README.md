@@ -52,13 +52,40 @@ Sou formado em Análise e Desenvolvimento de Sistemas e estou sempre ampliando m
 ## 📦 Projetos em destaque
 
 - [ecomify](https://github.com/iagodevtech/ecomify) — Ecommerce Digital Futurístico.
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/ecomify?label=stars&style=flat)](https://github.com/iagodevtech/ecomify/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/ecomify?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/ecomify?style=flat)
+
 - [iago-portfolio](https://github.com/iagodevtech/iago-portfolio) — Portfólio pessoal com sistema de curtidas e Supabase.
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/iago-portfolio?label=stars&style=flat)](https://github.com/iagodevtech/iago-portfolio/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/iago-portfolio?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/iago-portfolio?style=flat)
+
 - [Tareffy](https://github.com/iagodevtech/Tareffy) — App de tarefas com drag & drop, notificações e sincronização em tempo real.
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/Tareffy?label=stars&style=flat)](https://github.com/iagodevtech/Tareffy/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/Tareffy?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/Tareffy?style=flat)
+
 - [projeto-concurso](https://github.com/iagodevtech/projeto-concurso) — Resolução de questões de concursos para maximizar o aprendizado.
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/projeto-concurso?label=stars&style=flat)](https://github.com/iagodevtech/projeto-concurso/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/projeto-concurso?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/projeto-concurso?style=flat)
+
 - [Portifilio](https://github.com/iagodevtech/Portifilio) — Ecommerce de reformas.
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/Portifilio?label=stars&style=flat)](https://github.com/iagodevtech/Portifilio/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/Portifilio?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/Portifilio?style=flat)
+
 - [portal-de-vendas](https://github.com/iagodevtech/portal-de-vendas) — Criação do Portal de Vendas (Probelle).
+  
+  [![Stars](https://img.shields.io/github/stars/iagodevtech/portal-de-vendas?label=stars&style=flat)](https://github.com/iagodevtech/portal-de-vendas/stargazers) ![Top language](https://img.shields.io/github/languages/top/iagodevtech/portal-de-vendas?style=flat) ![Last commit](https://img.shields.io/github/last-commit/iagodevtech/portal-de-vendas?style=flat)
 
 > Dica: adicione ao README de cada projeto instruções de setup rápido (Run/Build), stack utilizada e screenshots/gifs curtos para aumentar a retenção de quem visita.
+
+---
+
+## 🧑‍💻 Como trabalho
+
+- Código limpo, legível e com testes automatizados quando faz sentido.
+- APIs coesas e versionadas; documentação enxuta (OpenAPI/Swagger quando aplicável).
+- Pipelines de CI/CD simples e reproduzíveis com Docker e GitHub Actions.
+- Observabilidade: logs estruturados e atenção a métricas e erros.
+- Comunicação clara em issues/PRs, com foco em entregar valor contínuo.
 
 ---
 
